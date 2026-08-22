@@ -1,5 +1,5 @@
 ## Oii 👋
-Me chamo Nathália Lima, sou formada em **Técnico em Redes de Computadores**, atualmente curso **Análise e Desenvolvimento de Sistemas** e também estou fazendo **Técnico em Informática**.
+Me chamo Nathália Lima, sou formada em **Técnico em Redes de Computadores** e **Técnico em Informática**, atualmente curso **Análise e Desenvolvimento de Sistemas**.
 
 Estou sempre em busca de aprendizado, evolução e desenvolvimento profissional na área de tecnologia.
 
