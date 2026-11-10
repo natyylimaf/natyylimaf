@@ -44,16 +44,11 @@ public class Nathalia {
 
 <div align="center">
 
-<img height="190" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=natyylimaf&show_icons=true&theme=radical&locale=pt-br&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="190" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natyylimaf&layout=compact&theme=radical&locale=pt-br&hide_border=true&langs_count=8" />
-
-<br><br>
-
 <img alt="Streak" src="https://streak-stats.demolab.com/?user=natyylimaf&theme=radical&hide_border=true&locale=pt_BR" />
 
 <br><br>
 
-<img alt="Gráfico de atividade" src="https://github-readme-activity-graph.vercel.app/graph?username=natyylimaf&theme=react-dark&hide_border=true&area=true&color=c084fc&line=a855f7&point=ec4899" />
+<img alt="Contribuições no último ano" src="https://ghchart.rshah.org/a855f7/natyylimaf" />
 
 </div>
 
