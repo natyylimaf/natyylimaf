@@ -7,6 +7,7 @@
 <br><br>
 
 ![Seguidores](https://img.shields.io/github/followers/natyylimaf?label=Seguidores&style=for-the-badge&color=a855f7&logo=github)
+![Seguindo](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/natyylimaf&query=$.following&label=Seguindo&style=for-the-badge&color=d946ef&logo=github)
 ![Repositórios](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/natyylimaf&query=$.public_repos&label=Reposit%C3%B3rios&style=for-the-badge&color=ec4899&logo=github)
 
 </div>
@@ -33,7 +34,13 @@ public class Nathalia {
 
 <div align="center">
 
-<img alt="Stack: Python, Java, HTML5, CSS3, JavaScript, MySQL e VS Code" src="https://skillicons.dev/icons?i=py,java,html,css,js,mysql,vscode&perline=7" />
+<img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" title="Python" />&nbsp;
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" title="Java" />&nbsp;
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" title="HTML5" />&nbsp;
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" title="CSS3" />&nbsp;
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" title="JavaScript" />&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" title="MySQL" />&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" title="VS Code" />
 
 </div>
 
