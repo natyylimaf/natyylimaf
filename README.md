@@ -6,7 +6,6 @@
 
 <br><br>
 
-![Visitas](https://komarev.com/ghpvc/?username=natyylimaf&label=Visitas&color=a855f7&style=for-the-badge)
 ![Seguidores](https://img.shields.io/github/followers/natyylimaf?label=Seguidores&style=for-the-badge&color=a855f7&logo=github)
 ![Repositórios](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/natyylimaf&query=$.public_repos&label=Reposit%C3%B3rios&style=for-the-badge&color=ec4899&logo=github)
 
