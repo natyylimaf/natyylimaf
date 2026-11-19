@@ -54,6 +54,10 @@ public class Nathalia {
 
 <br><br>
 
+<img alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natyylimaf&layout=compact&langs_count=6&theme=radical&hide_border=true&locale=pt-br&custom_title=Linguagens+mais+usadas" />
+
+<br><br>
+
 <img alt="Contribuições no último ano" src="https://ghchart.rshah.org/a855f7/natyylimaf" />
 
 </div>
